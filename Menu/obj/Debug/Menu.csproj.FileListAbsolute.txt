@@ -1,0 +1,7 @@
+C:\Users\Tomcii\source\repos\Menu\Menu\bin\Debug\Menu.exe.config
+C:\Users\Tomcii\source\repos\Menu\Menu\bin\Debug\Menu.exe
+C:\Users\Tomcii\source\repos\Menu\Menu\bin\Debug\Menu.pdb
+C:\Users\Tomcii\source\repos\Menu\Menu\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\Tomcii\source\repos\Menu\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Tomcii\source\repos\Menu\Menu\obj\Debug\Menu.exe
+C:\Users\Tomcii\source\repos\Menu\Menu\obj\Debug\Menu.pdb
